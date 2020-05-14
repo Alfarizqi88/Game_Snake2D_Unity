@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b69319c45597ca34c81cf450002f2442
+timeCreated: 1589435642
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Font de Labile
+  fontNames:
+  - Font de Labile
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

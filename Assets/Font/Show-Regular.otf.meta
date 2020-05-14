@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fa6341253d11049418c84d879a19adfa
+timeCreated: 1589430778
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Showlove
+  fontNames:
+  - Showlove
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a14b4e51e0357654d9d8cb59b4808ce9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

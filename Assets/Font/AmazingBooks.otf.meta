@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 009e79397e7a8ea4fa23721a43cf0a88
+timeCreated: 1589435642
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amazing Books
+  fontNames:
+  - Amazing Books
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

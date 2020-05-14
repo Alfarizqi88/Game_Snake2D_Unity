@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b5b88325b43d6bb4780cb1dafa744ea5
+timeCreated: 1589430778
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dark Seed
+  fontNames:
+  - Dark Seed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
